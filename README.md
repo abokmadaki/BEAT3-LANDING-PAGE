@@ -44,7 +44,7 @@ To get started with Beat3, you can either clone this repository or download the 
    cd beat3-landing-page
    ```
 
-3. Open `index.html` in your preferred web browser.
+3. Open `index.html` in your preferred web browser either Edge App or Chrome Browser, make sure to utilize the Dev Tools feature
 
 That's it! You should now see the Beat3 landing page.
 
