@@ -17,7 +17,7 @@ Welcome to Beat3 Landing Page! This is a simple, sleek, and modern landing page 
 - **Responsive Design:** Beat3 is built with responsiveness in mind, ensuring a seamless experience across all devices, from desktops to smartphones.
 
 - **Elegant Animations:** Engage your visitors with subtle and eye-catching animations that enhance the user experience.
-.
+
 - **Clear Call-to-Action:** Encourage users to take action with a prominent and strategically placed call-to-action button.
 
 - **Easy to Customize:** Modify the template to suit your branding, content, and style preferences effortlessly.
