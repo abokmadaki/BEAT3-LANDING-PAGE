@@ -24,9 +24,6 @@ Welcome to Beat3 Landing Page! This is a simple, sleek, and modern landing page 
 
 - **FontAwesome Icons:** Utilize a wide range of FontAwesome icons to make your content visually appealing and informative.
 
-## Demo
-
-Check out the [live demo](https://example.com/beat3-demo) to experience Beat3 in action.
 
 ## Getting Started
 
