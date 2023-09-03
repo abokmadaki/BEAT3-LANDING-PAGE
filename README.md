@@ -5,7 +5,6 @@ Welcome to Beat3 Landing Page! This is a simple, sleek, and modern landing page 
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Getting Started](#getting-started)
 - [Customization](#customization)
 - [Deployment](#deployment)
